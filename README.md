@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**kaio-mendes/kaio-mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+# Kaio Mendes 👨‍💻🚀
 
-Here are some ideas to get you started:
+## Sobre Mim
+Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos desafios e aprendizados no vasto mundo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formação Acadêmica
+- **Curso:** Análise e Desenvolvimento de Sistemas
+- **Instituição:** Uninter
+- **Curso:** Técnico em Informática
+- **Instituição:** IFPR - Jacarezinho
+
+## Habilidades
+- Desenvolvimento de Software
+- Linguagens de Programação: JavaScript, PHP, TypeScript, Python, Kotlin, Java, C#
+
+
+
+## Contato
+- **LinkedIn:** [Kaio Mendes](https://www.linkedin.com/in/kaio-vitor-c-mendes-449685264/)
+- **E-mail:** kaio.victormendes43@gmail.com
+
+## Objetivos
+Estou em constante evolução, buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores. Se você compartilha interesses similares ou tem um projeto interessante, ficarei feliz em me conectar!
