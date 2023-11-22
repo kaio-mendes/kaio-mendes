@@ -11,12 +11,6 @@ Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente
 - **Curso:** Técnico em Informática
 - **Instituição:** IFPR - Jacarezinho
 
-## Habilidades
-- Desenvolvimento de Software
-- Linguagens de Programação: JavaScript, PHP, TypeScript, Python, Kotlin, Java, C#
-
-
-
 ## Contato
 - **LinkedIn:** [Kaio Mendes](https://www.linkedin.com/in/kaio-vitor-c-mendes-449685264/)
 - **E-mail:** kaio.victormendes43@gmail.com
