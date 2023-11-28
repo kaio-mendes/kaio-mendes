@@ -19,3 +19,5 @@ Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente
 
 ## Objetivos
 Estou em constante evolução, buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores. Se você compartilha interesses similares ou tem um projeto interessante, ficarei feliz em me conectar!
+
+![Gif de Exemplo](dino.gif)
