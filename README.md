@@ -20,9 +20,9 @@ Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente
 ## Objetivos
 Estou em constante evolução, buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores. Se você compartilha interesses similares ou tem um projeto interessante, ficarei feliz em me conectar!
 
-#### Estatísticas:
+# Estatísticas:
 <div align="center">  
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=kaio-mendes&ring_color=5acbe9">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=kaio-mendes&ring_color=5acbe9">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mendes&layout=compact&hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
 
