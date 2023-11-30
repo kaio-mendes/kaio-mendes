@@ -4,7 +4,6 @@
 # Kaio Mendes 👨‍💻🚀
 ## Sobre Mim
 Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos desafios e aprendizados no vasto mundo da programação.
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Formação Acadêmica
 - **Curso:** Análise e Desenvolvimento de Sistemas
@@ -16,7 +15,7 @@ Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-vitor-c-mendes-449685264)
-#### G-mail: kaio.victormendes43@gmail.com
+###[<img height="48px" width="48px" alt="Icone gmail" src="[https://skillicons.dev/icons?i=postgres](https://icons8.com.br/icon/37246/gmail)"/>](https://icons8.com.br/icons/set/gmail) kaio.victormendes43@gmail.com
 
 ## Objetivos
 Estou em constante evolução, buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores. Se você compartilha interesses similares ou tem um projeto interessante, ficarei feliz em me conectar!
