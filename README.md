@@ -4,6 +4,7 @@
 # Kaio Mendes 👨‍💻🚀
 ## Sobre Mim
 Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos desafios e aprendizados no vasto mundo da programação.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Formação Acadêmica
 - **Curso:** Análise e Desenvolvimento de Sistemas
@@ -20,6 +21,7 @@ Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente
 ## Objetivos
 Estou em constante evolução, buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores. Se você compartilha interesses similares ou tem um projeto interessante, ficarei feliz em me conectar!
 
+#### Estatísticas:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mendes&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=kaio-mendes&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=kaio-mendes&amp;theme=radical"/>](https://github.com/)
