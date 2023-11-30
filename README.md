@@ -26,5 +26,7 @@ Estou em constante evolução, buscando oportunidades para aprimorar minhas habi
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=kaio-mendes&amp;theme=radical"/>](https://github.com/)
 
 
+ ![Snake animation](https://github.com/kaisunoo/kaio-mendes/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ![Gif de Exemplo](dino.gif)
