@@ -30,5 +30,3 @@ Estou em constante evolução, buscando oportunidades para aprimorar minhas habi
 </div>
 
 
- ![Snake animation](https://github.com/kaisunoo/kaisunoo/blob/output/github-contribution-grid-snake-dark.svg)
-
