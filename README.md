@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaio-mendes&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaio-mendes&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)]
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA814&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 # Kaio Mendes 👨‍💻🚀
