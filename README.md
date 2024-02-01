@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA814&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA814&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+:%29)]
 # Kaio Mendes 👨‍💻🚀
 ## Sobre Mim
 Olá! 👋 Meu nome é Kaio Mendes, sou um entusiasta de tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos desafios e aprendizados no vasto mundo da programação.
