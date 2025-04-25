@@ -80,8 +80,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaio-mendes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  ![kaio-mendes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mendes&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=kaio-mendes&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="180" alt="kaio-mendes's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-mendes&theme=dracula&hide_border=true" height="180" alt="kaio-mendes's GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mendes&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="180" alt="kaio-mendes's Top Languages" />
 </div>
 
+
 ###
+<div align="center">
+  <img height="150" src="[https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=6c09b9528utzzz5iooj83xthq7nqxj4fc1w9bto2kqtsirs9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2Fgifs%2Fbye-bye&psig=AOvVaw01BYupnN1UqgrQO2xo1RnF&ust=1745671001308000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDr166Z84wDFQAAAAAdAAAAABAE)"  />
+</div>
