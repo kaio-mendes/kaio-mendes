@@ -81,7 +81,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaio-mendes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=kaio-mendes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![kaio-mendes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mendes&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ###
