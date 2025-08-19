@@ -24,13 +24,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo <strong>Kaio</strong>, tenho 20 anos e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>. Estou em transição de carreira para a área de <strong>tecnologia</strong> e atualmente estudo <strong>desenvolvimento web e mobile</strong>, com foco em <strong>React</strong>, <strong>JavaScript</strong> e <strong>design de produtos digitais</strong>.
-  <br><br>
-  Tenho interesse especial em:
-  <br>- Desenvolvimento Front-end (Web & Mobile)
-  <br>- UI/UX Design
-  <br>- Desenvolvimento Back-End
-  <br>- Projetos que impactam pessoas de verdade
+<p align="left">Olá! Me chamo <strong>Kaio</strong>, tenho 20 anos e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>. Atualmente estudo <strong>desenvolvimento web</strong>, com foco em React, JavaScript
   <br><br>
   🔧 Estou constantemente aprimorando meus conhecimentos com projetos pessoais, cursos e desafios práticos.
 </p>
@@ -44,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
@@ -81,7 +75,7 @@
 ###
 <hr />
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Minhas estatísticas</h3>
 
 ###
 
