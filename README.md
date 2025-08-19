@@ -82,7 +82,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaio-mendes&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="180" alt="kaio-mendes's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mendes&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="180" alt="kaio-mendes's Top Languages" />
 </div>
 
 <hr />
