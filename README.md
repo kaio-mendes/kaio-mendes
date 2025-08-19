@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo <strong>Kaio</strong>, tenho 20 anos e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>. Atualmente estudo <strong>desenvolvimento web</strong>, com foco em React, JavaScript
+<p align="left">Olá! Me chamo <strong>Kaio</strong>, tenho 20 anos e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>. Atualmente estudo <strong>desenvolvimento web</strong>, com foco em React e JavaScript
   <br><br>
   🔧 Estou constantemente aprimorando meus conhecimentos com projetos pessoais, cursos e desafios práticos.
 </p>
