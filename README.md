@@ -16,6 +16,12 @@
 <hr />
 
 ###
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/lxqihLckfJcAAAAd/this-is-fine.gif"  />
+</div>
+###
+
+###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
