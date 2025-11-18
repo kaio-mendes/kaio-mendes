@@ -17,21 +17,6 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
-<hr />
-
-<h3 align="left">👩‍💻  Sobre Mim</h3>
-
-###
-
-<p align="left">Olá! Me chamo <strong>Kaio</strong>, tenho 20 anos e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>. Atualmente estudo <strong>desenvolvimento web</strong>, com foco em React e JavaScript
-  <br><br>
-  🔧 Estou constantemente aprimorando meus conhecimentos com projetos pessoais, cursos e desafios práticos.
-</p>
-
-###
-<hr />
-
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/lxqihLckfJcAAAAd/this-is-fine.gif"  />
 </div>
