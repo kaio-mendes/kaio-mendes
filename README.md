@@ -4,15 +4,6 @@
 <hr />
 
 ###
-
-<div align="center">
-  <a href="https://www.kaiomendes.com.br/" target="_blank">
-    <img src="https://www.kaiomendes.com.br/logo.png" alt="Kaio Mendes logo" height="40" />
-  </a>
-  
-</div>
-
-###
 <hr />
 
 ###
