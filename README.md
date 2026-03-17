@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=6c09b9528utzzz5iooj83xthq7nqxj4fc1w9bto2kqtsirs9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
-</div>
-<hr />
-
 ###
 <hr />
 
