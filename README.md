@@ -70,16 +70,16 @@ em arquitetura de software, bancos de dados, redes e segurança.
 ---
 
 ## 📫 Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/kaio-mendes-449685264">
-    LinkedIn
+<a href="[https://www.linkedin.com/[removed](https://www.linkedin.com/in/kaio-mendes-449685264)]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
-</p>
-
 <p>
   📧 Entre em contato comigo através do LinkedIn.
 </p>
+
+<a href="[https://www.linkedin.com/[removed](https://www.linkedin.com/in/kaio-mendes-449685264)]" rel="nofollow noreferrer">
+    <img src="[https://i.sstatic.net/gVE0j.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="gmail"> Gmail
+  </a>
 
 ---
 
