@@ -1,9 +1,9 @@
 # Olá! Eu sou o Kaio Mendes 👋
 
-💻 Desenvolvedor Full Stack em formação  
-🎓 Análise e Desenvolvimento de Sistemas  
-🔐 Estudante de Segurança da Informação  
-🇧🇷 Brasil
+Desenvolvedor Full Stack em formação  
+Análise e Desenvolvimento de Sistemas  
+Estudante de Segurança da Informação  
+Brasil
 
 Gosto de transformar problemas em soluções através da tecnologia.
 
@@ -54,40 +54,6 @@ em arquitetura de software, bancos de dados, redes e segurança.
 
 ---
 
-## 📌 Projetos em destaque
-
-### 💰 Finances API
-
-API para gerenciamento financeiro desenvolvida com NestJS.
-
-**Tecnologias:**
-
-- NestJS
-- TypeScript
-- Sequelize
-- PostgreSQL
-- REST API
-
-[🔗 Ver projeto](https://github.com/kaio-mendes)
-
----
-
-### 🌐 Projeto Web
-
-Aplicação web desenvolvida para praticar desenvolvimento frontend,
-integração com APIs e construção de interfaces modernas.
-
-**Tecnologias:**
-
-- React
-- TypeScript
-- Next.js
-- Material UI
-
-[🔗 Ver projeto](https://github.com/kaio-mendes)
-
----
-
 ## 📊 GitHub
 
 <p align="center">
@@ -117,4 +83,4 @@ integração com APIs e construção de interfaces modernas.
 
 ---
 
-⭐ Sempre aprendendo, construindo e evoluindo.
+Sempre aprendendo, construindo e evoluindo.
