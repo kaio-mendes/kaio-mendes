@@ -1,4 +1,4 @@
-# Olá! Eu sou o Kaio Mendes 👋
+# Olá! Eu sou o Kaio Mendes
 
 Desenvolvedor Full Stack em formação  
 Análise e Desenvolvimento de Sistemas  
