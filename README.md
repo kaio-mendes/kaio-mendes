@@ -1,56 +1,120 @@
-###
-<hr />
+# Olá! Eu sou o Kaio Mendes 👋
 
-###
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/lxqihLckfJcAAAAd/this-is-fine.gif"  />
-</div>
+💻 Desenvolvedor Full Stack em formação  
+🎓 Análise e Desenvolvimento de Sistemas  
+🔐 Estudante de Segurança da Informação  
+🇧🇷 Brasil
 
-###
+Gosto de transformar problemas em soluções através da tecnologia.
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+Atualmente estou focado em desenvolvimento web, principalmente com
+React, Next.js, Node.js e NestJS, enquanto aprofundo meus conhecimentos
+em arquitetura de software, bancos de dados, redes e segurança.
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
+## 🚀 Tecnologias
 
-###
-<hr />
+### Front-end
 
-<h3 align="left">🔥   Minhas estatísticas</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
 
-###
+### Back-end
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaio-mendes&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="180" alt="kaio-mendes's GitHub Stats" />
-  <br />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
-<hr />
+### Banco de dados
 
-###
-<div align="center">
-  <img height="150" src="https://media.tenor.com/jGmflSmpDv8AAAAM/drive-off-unbothered.gif"  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## 🛠️ O que estou estudando
+
+- Desenvolvimento de APIs REST
+- Arquitetura de aplicações
+- NestJS e Node.js
+- React e Next.js
+- Bancos de dados relacionais
+- Docker
+- Redes de computadores
+- Segurança da Informação
+
+---
+
+## 📌 Projetos em destaque
+
+### 💰 Finances API
+
+API para gerenciamento financeiro desenvolvida com NestJS.
+
+**Tecnologias:**
+
+- NestJS
+- TypeScript
+- Sequelize
+- PostgreSQL
+- REST API
+
+[🔗 Ver projeto](https://github.com/kaio-mendes)
+
+---
+
+### 🌐 Projeto Web
+
+Aplicação web desenvolvida para praticar desenvolvimento frontend,
+integração com APIs e construção de interfaces modernas.
+
+**Tecnologias:**
+
+- React
+- TypeScript
+- Next.js
+- Material UI
+
+[🔗 Ver projeto](https://github.com/kaio-mendes)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kaio-mendes&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mendes&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/kaio-mendes-449685264">
+    LinkedIn
+  </a>
+</p>
+
+<p>
+  📧 Entre em contato comigo através do LinkedIn.
+</p>
+
+---
+
+⭐ Sempre aprendendo, construindo e evoluindo.
