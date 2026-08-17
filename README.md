@@ -54,25 +54,4 @@ em arquitetura de software, bancos de dados, redes e segurança.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kaio-mendes&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mendes&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaio%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-mendes-449685264/)
-[![Gmail](https://img.shields.io/badge/Gmail-kaio.mendes1911%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaio.mendes1911@gmail.com)
-
----
-
 Sempre aprendendo, construindo e evoluindo.
